@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ali-haris
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on open sourse projects 
+- 💞️ I’m looking to collaborate to open sourse projects 
 - 📫 Reach me haris.fic1@gmail.com  Linkedin : https://www.linkedin.com/in/muhammad-haris-khan18
 
 <!---
