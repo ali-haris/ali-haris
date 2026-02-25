@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ali-haris
+- 👋 Hi, I’m @ali-haris.
 - 👀 I’m interested in Machine Learning
 - 🌱 Python Developer
 - 💞️ I’m looking to collaborate on open-source projects 
