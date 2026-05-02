@@ -30,8 +30,7 @@ I enjoy research, implementation, experimentation, and participating in internat
 
 ### Research & Technical Interests
 
-- Artificial Intelligence and Machine Learning  
-- Computer Vision and Deep Learning  
+- Computer Vision
 - AI in Healthcare and Medical Imaging  
 - Explainable and Reliable AI  
 - Lightweight and Efficient AI Models  
@@ -40,7 +39,7 @@ I enjoy research, implementation, experimentation, and participating in internat
 
 ---
 
-### Featured Projects
+<!-- ### Featured Projects
 
 | Project | Focus |
 |---|---|
@@ -51,7 +50,7 @@ I enjoy research, implementation, experimentation, and participating in internat
 | [Outdoor Object Detection for Visually Impaired People](https://github.com/ali-haris/Outdoor-Object-Detection-for-Visually-Impaired-People-FYP-) | YOLO, Assistive Technology |
 | [AMS Detection using HDC](https://github.com/ali-haris/ams-hd-binary-classification) | Hyperdimensional Computing |
 
----
+--- -->
 
 ### Hackathons & Competitions
 
