@@ -1,0 +1,161 @@
+{
+  "name": "Haris Khan",
+  "headline": "Computer Science Graduate | Research Assistant",
+  "eyebrow": "Computer Science · Research · Applied AI",
+  "email": "m.hariskhan.se@gmail.com",
+  "location": "Peshawar, Pakistan",
+  "photo": "assets/img/profile.jpg",
+  "summary": "I am a Computer Science graduate and Research Assistant with experience in applied artificial intelligence, machine learning, computer vision, and research-oriented software development. My work spans model development, dataset preparation, experimental evaluation, technical writing, mentoring, and applied prototypes built through research projects and international hackathons.",
+  "contactText": "I welcome conversations about research collaboration, academic projects, mentoring, and technical work in Computer Science.",
+  "links": [
+    {
+      "label": "Email",
+      "url": "mailto:m.hariskhan.se@gmail.com",
+      "icon": "email"
+    },
+    {
+      "label": "CV",
+      "url": "assets/docs/Haris-Khan-CV.pdf",
+      "icon": "cv"
+    },
+    {
+      "label": "Projects PDF",
+      "url": "assets/docs/Haris-Khan-Projects.pdf",
+      "icon": "projects"
+    },
+    {
+      "label": "GitHub",
+      "url": "http://github.com/ali-haris",
+      "icon": "github"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/muhammad-haris-khan18/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "#",
+      "icon": "scholar"
+    }
+  ],
+  "researchInterests": [
+    "Computer Vision",
+    "Deep Learning",
+    "Applied AI Systems",
+    "Data-Driven Decision Systems",
+    "Explainable and Reliable AI",
+    "AI for Social Impact",
+    "Healthcare AI",
+    "Scientific Computing"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "institution": "University of Peshawar",
+      "period": "2020 – 2024",
+      "meta": "CGPA: 3.37/4.00",
+      "bullets": [
+        "Final Year Project: Outdoor Object Detection System for the Visually Impaired.",
+        "Built a YOLOv8-based real-time detection and audio guidance system using Python, OpenCV, and Google Text-to-Speech.",
+        "Worked on custom dataset preparation, training, evaluation, and application integration."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Research Assistant",
+      "organization": "The University of Agriculture, Peshawar",
+      "period": "Jan 2025 – Present",
+      "location": "Peshawar, Pakistan",
+      "bullets": [
+        "Contribute to research projects involving machine learning, deep learning, and computer vision.",
+        "Clean, preprocess, and organize datasets for model training and evaluation.",
+        "Train and fine-tune deep learning models, including YOLO-based architectures.",
+        "Assist with methodology development, experimental analysis, and research writing."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Fruits Plant Leaf Diseases Detection using YOLOv12 Model with Flash Attention Mechanism and R-ELAN Block",
+      "authors": "I. Ahmad, M. Haris Khan, A. Khan, D. Ramli, M. Asim, M. Isha, and A. Khan",
+      "venue": "Submitted to Smart Agricultural Technology",
+      "status": "Manuscript submitted",
+      "links": []
+    }
+  ],
+  "achievements": [
+    "<strong>Top 5% globally</strong> and <strong>8th nationally</strong> in Meta Hacker Cup 2025. <a href=\"https://www.linkedin.com/posts/muhammad-haris-khan18_metahackercup-competitiveprogramming-algorithms-activity-7384433628103032833-rNvn/\" target=\"_blank\" rel=\"noopener\">View</a>",
+    "Selected as a <strong>Judge</strong> for Student HackPad 2025, an international hackathon with 800+ participants and $14K+ in prizes. <a href=\"https://www.studenthackpad.com/#speakers\" target=\"_blank\" rel=\"noopener\">View</a>",
+    "Led a team at <strong>Harvard CS50x Puzzle Day 2025</strong>, solving 8/9 puzzles. <a href=\"https://www.linkedin.com/posts/muhammad-haris-khan18_cs50x-puzzleday-problemsolving-activity-7319663966320779268-UImB\" target=\"_blank\" rel=\"noopener\">View</a>",
+    "Ranked <strong>3rd at HackHub 2025</strong> by SparkHub for Exam Companion, an AI-powered exam planner. <a href=\"https://devpost.com/software/exam-companion\" target=\"_blank\" rel=\"noopener\">View</a>",
+    "Ranked in the <strong>Top 10% globally</strong> at the International Computer Science Competition. <a href=\"https://tinyurl.com/4dhvv492\" target=\"_blank\" rel=\"noopener\">View</a>",
+    "Ranked <strong>177th out of 355</strong> in the MIT Informatics Contest. <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:7409514303596331008/\" target=\"_blank\" rel=\"noopener\">View</a>",
+    "Achieved a <strong>TOEFL score of 91</strong>, equivalent to IELTS Band 7.0. <a href=\"https://drive.google.com/file/d/1hbHUFzKlqAu5PVG9gdnLRwxCNrnIALpq/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">View</a>"
+  ],
+  "teachingService": [
+    "Trainer and Moderator at <strong>ICodeGuru</strong>, teaching data structures and LeetCode problem-solving patterns to 50+ underprivileged students. <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:7443902083902218240/\" target=\"_blank\" rel=\"noopener\">View</a>",
+    "Led a <strong>5-week IELTS preparation course</strong> focused on speaking, writing, and structured feedback. <a href=\"https://www.linkedin.com/posts/muhammad-haris-khan18_ielts-ieltspreparation-speakingpractice-activity-7298780507696201728-7bci\" target=\"_blank\" rel=\"noopener\">View</a>",
+    "Delivered workshop: <strong>Transformers Architecture — From Attention to LLMs</strong>. <a href=\"https://www.linkedin.com/posts/muhammad-haris-khan18_transformers-llms-nlp-activity-7428656003749142528-Dh4I/\" target=\"_blank\" rel=\"noopener\">View</a>",
+    "Delivered workshop: <strong>Applied Computer Vision with YOLO — Detection and Segmentation</strong>. <a href=\"https://www.linkedin.com/posts/muhammad-haris-khan18_computervision-yolo-deeplearning-activity-7380687399124803584-BuMN\" target=\"_blank\" rel=\"noopener\">View</a>",
+    "Delivered workshop: <strong>Exploring NASA Space Apps Challenge 2025</strong>. <a href=\"https://www.linkedin.com/posts/muhammad-haris-khan18_spaceapps-hackathon-nasa-activity-7379862836786663424-6NCd/\" target=\"_blank\" rel=\"noopener\">View</a>",
+    "Served as a Relief Distribution Volunteer with <strong>Alkhidmat Foundation</strong>. <a href=\"https://alkhidmat.org/\" target=\"_blank\" rel=\"noopener\">View</a>"
+  ],
+  "skills": {
+    "Programming": [
+      "Python",
+      "C++",
+      "PHP"
+    ],
+    "AI / ML": [
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "YOLOv8/v9/v10/v12",
+      "OpenCV"
+    ],
+    "Data / Research": [
+      "Data preprocessing",
+      "Model evaluation",
+      "Experimental analysis",
+      "LaTeX",
+      "Technical writing"
+    ],
+    "Web / Tools": [
+      "Streamlit",
+      "Flask",
+      "Git",
+      "GitHub",
+      "Google Colab",
+      "Hugging Face Spaces",
+      "n8n"
+    ],
+    "APIs": [
+      "OpenAI API",
+      "Groq API",
+      "Claude API",
+      "Qloo API"
+    ]
+  },
+  "mentorship": [
+    {
+      "title": "Judge and Mentor — HEC Generative AI Training Hackathon",
+      "organization": "Hackathon judging and technical mentoring",
+      "description": "Mentored teams on idea development, technical feasibility, implementation quality, and presentation clarity for Generative AI projects.",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7416423162608828416/"
+    },
+    {
+      "title": "Judge — Student HackPad 2025",
+      "organization": "International student hackathon",
+      "description": "Reviewed student-led educational technology projects and provided structured feedback on innovation, usability, learning impact, and implementation.",
+      "url": "https://www.linkedin.com/posts/muhammad-haris-khan18_studenthackpad-hackathon-judging-activity-7404227338252582913-BmaL/"
+    },
+    {
+      "title": "Judge — HealTech Innovators Hackathon 2025",
+      "organization": "Healthcare technology hackathon",
+      "description": "Evaluated AI-driven healthcare ideas for technical quality, feasibility, clarity, and real-world applicability in health-focused settings.",
+      "url": "https://health-hackx-27285.devpost.com/#judges"
+    }
+  ]
+}

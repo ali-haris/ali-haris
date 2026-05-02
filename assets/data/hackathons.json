@@ -1,0 +1,168 @@
+[
+  {
+    "title": "Exam Companion – Exam Preparation Assistant",
+    "event": "HackHub 2025 by SparkHub",
+    "category": "Education AI",
+    "featured": true,
+    "top": true,
+    "result": "Ranked 3rd",
+    "role": "Full-Stack Developer",
+    "image": "assets/img/exam-companion-highlight.svg",
+    "description": "A smart web application to help students plan, track, and manage exam preparation with dashboards and schedule export options.",
+    "stack": [
+      "Full-stack web app",
+      "Dashboards",
+      "Responsive UI"
+    ],
+    "highlights": [
+      "Ranked 3rd internationally",
+      "Study schedule planning",
+      "Interactive progress tracking"
+    ],
+    "links": [
+      {
+        "label": "View Hackathon",
+        "url": "https://devpost.com/software/exam-companion"
+      }
+    ]
+  },
+  {
+    "title": "Exoplanet Hunter",
+    "event": "NASA Space Apps Challenge 2025",
+    "category": "Space & Science AI",
+    "featured": false,
+    "top": true,
+    "result": "Team Lead",
+    "role": "Team Lead & ML Developer",
+    "image": "assets/img/space.svg",
+    "description": "An ML prototype using NASA TESS mission data to identify exoplanet candidates and visualize predictions.",
+    "stack": [
+      "Python",
+      "XGBoost",
+      "Streamlit",
+      "NASA TESS Data"
+    ],
+    "highlights": [
+      "89% classification accuracy",
+      "Real-time prediction app",
+      "Team leadership"
+    ],
+    "links": [
+      {
+        "label": "View Hackathon",
+        "url": "https://www.linkedin.com/posts/muhammad-haris-khan18_nasaspaceapps-machinelearning-exoplanet-activity-7381035384408928257-J3pC"
+      }
+    ]
+  },
+  {
+    "title": "Eco Mentor",
+    "event": "Co-Creating with GPT-5 by Lablab.ai",
+    "category": "Sustainability & Social Impact",
+    "featured": false,
+    "top": true,
+    "result": "Prototype",
+    "role": "Full-Stack Developer",
+    "image": "assets/img/hackathon-ai.svg",
+    "description": "A sustainability mentor for kids with interactive chat, quizzes, challenges, and gamified progress tracking.",
+    "stack": [
+      "FastAPI",
+      "React",
+      "GPT-5 API",
+      "Railway",
+      "Vercel"
+    ],
+    "highlights": [
+      "Interactive learning assistant",
+      "Gamification with badges and points",
+      "Child-friendly sustainability challenges"
+    ],
+    "links": [
+      {
+        "label": "View Hackathon",
+        "url": "https://lablab.ai/event/co-creating-with-gpt-5/ai-for-sustainability/green-mentor"
+      }
+    ]
+  },
+  {
+    "title": "Legal E-Commerce AI Agent",
+    "event": "RAISE Your Hack Hackathon by Lablab.ai",
+    "category": "Legal & Retrieval AI",
+    "featured": false,
+    "top": true,
+    "result": "Prototype",
+    "role": "Retriever Specialist",
+    "image": "assets/img/legal-ai.svg",
+    "description": "An Urdu legal assistant for e-commerce workflows using retrieval, clause extraction, legal Q&A, and notice drafting.",
+    "stack": [
+      "Groq API",
+      "LangChain",
+      "Llama Models",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "Urdu legal Q&A",
+      "Clause extraction pipeline",
+      "Notice drafting workflow"
+    ],
+    "links": [
+      {
+        "label": "View Hackathon",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "title": "MoodFlow – Mood-Based Recommender",
+    "event": "Qloo LLM Hackathon by Qloo",
+    "category": "Recommender Systems",
+    "featured": false,
+    "top": false,
+    "result": "Prototype",
+    "role": "Full-Stack Developer",
+    "image": "assets/img/recommender.svg",
+    "description": "An LLM-powered lifestyle recommender that suggests books, music, and movies based on user mood.",
+    "stack": [
+      "Qloo Taste AI",
+      "OpenAI API",
+      "Streamlit"
+    ],
+    "highlights": [
+      "Mood-based recommendations",
+      "Books, music, and movie suggestions",
+      "Rapid public demo"
+    ],
+    "links": [
+      {
+        "label": "View Hackathon",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "title": "Polarization Mapper",
+    "event": "Hackathon Project",
+    "category": "NLP & Social Computing",
+    "featured": false,
+    "top": false,
+    "result": "Prototype",
+    "role": "AI Developer",
+    "image": "assets/img/nlp.svg",
+    "description": "A web-based analytics tool to measure and visualize polarization in online discussions using natural language processing.",
+    "stack": [
+      "NLP",
+      "Dashboard",
+      "Data Visualization"
+    ],
+    "highlights": [
+      "Polarization trend analysis",
+      "Social media discussion analytics",
+      "Interactive visual dashboard"
+    ],
+    "links": [
+      {
+        "label": "View Hackathon",
+        "url": "#"
+      }
+    ]
+  }
+]

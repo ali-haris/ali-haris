@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Haris Khan — Computer Science graduate and Research Assistant. Academic profile, research interests, projects, hackathons, and contact information." />
+  <title>Haris Khan</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body data-page="home">
+  <header class="site-header" id="top">
+    <div class="container header-inner">
+      <a class="site-title" href="index.html">Haris Khan</a>
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">Menu</button>
+      <nav class="nav-links" id="navLinks" aria-label="Primary navigation">
+        <a href="index.html#research">Research</a>
+        <a href="index.html#publications">Publications</a>
+        <a href="projects.html">Projects</a>
+        <a href="hackathons.html">Hackathons</a>
+        <a href="index.html#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="intro" id="home">
+      <div class="intro-text">
+        <p class="eyebrow" data-profile="eyebrow"></p>
+        <h1 data-profile="name"></h1>
+        <p class="subtitle" data-profile="headline"></p>
+        <p class="lead" data-profile="summary"></p>
+        <div class="icon-links" id="socialLinks" aria-label="Profile links"></div>
+      </div>
+      <figure class="profile-figure">
+        <img id="profilePhoto" src="assets/img/profile-placeholder.svg" alt="Profile placeholder. Replace with your professional photo." />
+        <!-- <figcaption>Computer Science Graduate · Research Assistant</figcaption> -->
+      </figure>
+    </section>
+
+    <section id="research" class="section">
+      <div class="section-head">
+        <h2>Research Interests</h2>
+        <p>Broad areas that can be adapted for specific labs, professors, and research groups.</p>
+      </div>
+      <div class="tag-list" id="interestTags"></div>
+    </section>
+
+    <section id="education-experience" class="section two-column-section">
+      <div>
+        <div class="section-head compact"><h2>Education</h2></div>
+        <div id="educationList" class="entry-list"></div>
+      </div>
+      <div>
+        <div class="section-head compact"><h2>Experience</h2></div>
+        <div id="experienceList" class="entry-list"></div>
+      </div>
+    </section>
+
+    <section id="publications" class="section">
+      <div class="section-head">
+        <h2>Publications and Manuscripts</h2>
+        <p>Published, submitted, and in-progress research work.</p>
+      </div>
+      <div class="publication-list" id="publicationList"></div>
+    </section>
+
+    <section id="service" class="section two-column-section">
+      <div>
+        <div class="section-head compact"><h2>Achievements</h2></div>
+        <ul class="simple-list" id="achievementList"></ul>
+      </div>
+      <div>
+        <div class="section-head compact"><h2>Teaching, Workshops, and Service</h2></div>
+        <ul class="simple-list" id="serviceList"></ul>
+      </div>
+    </section>
+
+    <section id="hackathons" class="section">
+      <div class="section-head split-head">
+        <div>
+          <h2>Selected Hackathons</h2>
+          <p>Selected hackathon work built through fast prototyping, collaboration, and applied problem solving.</p>
+        </div>
+        <a class="section-link" href="hackathons.html">View all hackathons →</a>
+      </div>
+      <div class="card-grid" id="homeHackathons"></div>
+    </section>
+
+    <section id="projects" class="section">
+      <div class="section-head split-head">
+        <div>
+          <h2>Selected Projects</h2>
+          <p>Top projects grouped by broad technical categories.</p>
+        </div>
+        <a class="section-link" href="projects.html">View all projects →</a>
+      </div>
+      <div class="filter-group" id="homeProjectFilters" aria-label="Project category filters"></div>
+      <div class="card-grid" id="homeProjects"></div>
+    </section>
+
+
+    <section id="mentorship" class="section">
+      <div class="section-head">
+        <h2>Mentorship and Judging</h2>
+        <p>Selected judging and mentoring activities where I reviewed student projects, gave technical feedback, and supported early-stage teams.</p>
+      </div>
+      <div id="mentorshipList"></div>
+    </section>
+
+    <section id="skills" class="section">
+      <div class="section-head">
+        <h2>Skills</h2>
+        <p>Technical and research skills relevant to graduate-level computer science work.</p>
+      </div>
+      <div class="skills-list" id="skillsList"></div>
+    </section>
+
+    <section id="contact" class="section contact-section">
+      <div class="section-head"><h2>Contact</h2></div>
+      <p data-profile="contactText"></p>
+      <p><strong>Email:</strong> <a id="profileEmail" href="#"></a><br><strong>Location:</strong> <span data-profile="location"></span></p>
+    </section>
+  </main>
+
+  <footer class="footer container">
+    <p>© <span id="year"></span> Haris Khan</p>
+    <p><a href="#top">Back to top ↑</a></p>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

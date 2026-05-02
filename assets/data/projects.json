@@ -1,0 +1,211 @@
+[
+  {
+    "title": "Lung Cancer Detection using Hybrid Deep Learning and Explainable AI",
+    "category": "AI in Healthcare & Medical Imaging",
+    "featured": true,
+    "top": true,
+    "image": "assets/img/medical-ct.svg",
+    "role": "Research Project",
+    "description": "A CT-scan classification system combining transfer learning, attention mechanisms, handcrafted texture features, and Grad-CAM explainability.",
+    "stack": [
+      "Python",
+      "TensorFlow",
+      "InceptionV3",
+      "Grad-CAM",
+      "GLCM/LBP"
+    ],
+    "highlights": [
+      "Multi-class CT image classification",
+      "Explainability through Grad-CAM",
+      "Validation accuracy around 98.9% and ROC-AUC around 0.997"
+    ],
+    "links": [
+      {
+        "label": "View Project",
+        "url": "https://github.com/ali-haris/Lung-Cancer-Detection-with-Explainable-AI"
+      }
+    ]
+  },
+  {
+    "title": "EfficientUNetViT-Based Breast Tumor Segmentation",
+    "category": "AI in Healthcare & Medical Imaging",
+    "featured": true,
+    "top": true,
+    "image": "assets/img/segmentation.svg",
+    "role": "Research Project",
+    "description": "A deep learning pipeline for breast tumor segmentation from ultrasound images with model comparison and visual prediction analysis.",
+    "stack": [
+      "PyTorch",
+      "EfficientUNetViT",
+      "DeepLabV3+",
+      "UNet"
+    ],
+    "highlights": [
+      "Compared multiple segmentation architectures",
+      "Evaluated Dice, IoU, precision, recall, specificity, and pixel accuracy",
+      "Best model reached 95.9% pixel accuracy"
+    ],
+    "links": [
+      {
+        "label": "View Project",
+        "url": "https://github.com/ali-haris/Breast-ultrasound-tumor-segmentation-using-EfficientUNetViT"
+      }
+    ]
+  },
+  {
+    "title": "Automated Diabetic Retinopathy Screening with Swin Transformer",
+    "category": "AI in Healthcare & Medical Imaging",
+    "featured": true,
+    "top": true,
+    "image": "assets/img/retina.svg",
+    "role": "Research Project",
+    "description": "A transformer-based image classification pipeline for diabetic retinopathy severity grading using retinal fundus images.",
+    "stack": [
+      "Swin Transformer",
+      "Transfer Learning",
+      "Image Preprocessing",
+      "APTOS 2019"
+    ],
+    "highlights": [
+      "Five-class severity grading",
+      "Class imbalance handling",
+      "Augmentation and robust training"
+    ],
+    "links": [
+      {
+        "label": "View Project",
+        "url": "https://github.com/ali-haris/Diabetic-Retinopathy-Stage-Prediction-Using-Swin-Transformer"
+      }
+    ]
+  },
+  {
+    "title": "Heart Sound Classification using Lightweight Deep Learning",
+    "category": "AI in Healthcare & Medical Imaging",
+    "featured": true,
+    "top": true,
+    "image": "assets/img/audio-ai.svg",
+    "role": "Research Project",
+    "description": "An end-to-end pipeline for classifying phonocardiogram recordings as normal or abnormal using lightweight neural models.",
+    "stack": [
+      "TensorFlow",
+      "Librosa",
+      "Tiny CNN",
+      "1D CNN",
+      "YAMNet"
+    ],
+    "highlights": [
+      "Compared lightweight audio models",
+      "Analyzed F1-score, inference time, and energy efficiency",
+      "Achieved 92.44% accuracy with Tiny 2D CNN"
+    ],
+    "links": [
+      {
+        "label": "View Project",
+        "url": "https://github.com/ali-haris/Heart-Sound-Classification-Using-Lightweight-Deep-Learning-models"
+      }
+    ]
+  },
+  {
+    "title": "AgroVision AI – Plant Disease Detection Application",
+    "category": "Computer Vision & Applied AI",
+    "featured": false,
+    "top": false,
+    "image": "assets/img/agrovision.svg",
+    "role": "Computer Vision Researcher",
+    "description": "A lightweight YOLO-based plant disease detection system for agricultural decision support.",
+    "stack": [
+      "YOLOv12",
+      "Computer Vision",
+      "Agricultural AI"
+    ],
+    "highlights": [
+      "Trained on 50,000+ annotated plant images",
+      "Covered 25 disease classes",
+      "Achieved high precision for real-time diagnosis"
+    ],
+    "links": [
+      {
+        "label": "View Project",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "title": "Outdoor Object Detection System for the Visually Impaired",
+    "category": "Computer Vision & Applied AI",
+    "featured": false,
+    "top": false,
+    "image": "assets/img/video-ai.svg",
+    "role": "Final Year Project",
+    "description": "A real-time outdoor obstacle detection and audio guidance system designed to support visually impaired users.",
+    "stack": [
+      "Python",
+      "YOLOv8",
+      "OpenCV",
+      "Google Text-to-Speech"
+    ],
+    "highlights": [
+      "Custom dataset and YOLOv8 training",
+      "Real-time object detection",
+      "Audio navigation feedback"
+    ],
+    "links": [
+      {
+        "label": "View Project",
+        "url": "https://github.com/ali-haris/Outdoor-Object-Detection-for-Visually-Impaired-People-FYP-"
+      }
+    ]
+  },
+  {
+    "title": "Anomalous Behavior Detection in Video Surveillance",
+    "category": "Computer Vision & Applied AI",
+    "featured": false,
+    "top": false,
+    "image": "assets/img/video-ai.svg",
+    "role": "Research Project",
+    "description": "A video anomaly detection pipeline using frame grouping, ResNet-50 feature extraction, and BiLSTM temporal modeling.",
+    "stack": [
+      "ResNet-50",
+      "BiLSTM",
+      "Video Analytics",
+      "Python"
+    ],
+    "highlights": [
+      "Temporal modeling for surveillance videos",
+      "80% accuracy and 0.78 F1-score",
+      "Visual performance analysis"
+    ],
+    "links": [
+      {
+        "label": "View Project",
+        "url": "https://github.com/ali-haris/AnomalyDetection-ATM"
+      }
+    ]
+  },
+  {
+    "title": "Acute Mountain Sickness Detection using Hyperdimensional Computing",
+    "category": "Efficient & Emerging AI",
+    "featured": false,
+    "top": false,
+    "image": "assets/img/hdc.svg",
+    "role": "Research Implementation",
+    "description": "A lightweight HDC-based binary classification pipeline for detecting Acute Mountain Sickness from physiological and contextual features.",
+    "stack": [
+      "Hyperdimensional Computing",
+      "Python",
+      "Scikit-learn",
+      "Sobol/Hadamard HV"
+    ],
+    "highlights": [
+      "Compared pseudo-random, Sobol, and Hadamard hypervectors",
+      "Feature preprocessing and mutual information analysis",
+      "Best accuracy of 81.8%"
+    ],
+    "links": [
+      {
+        "label": "View Project",
+        "url": "https://github.com/ali-haris/ams-hd-binary-classification"
+      }
+    ]
+  }
+]
