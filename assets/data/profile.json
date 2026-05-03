@@ -19,11 +19,6 @@
       "icon": "cv"
     },
     {
-      "label": "Projects PDF",
-      "url": "assets/docs/Haris-Khan-Projects.pdf",
-      "icon": "projects"
-    },
-    {
       "label": "GitHub",
       "url": "http://github.com/ali-haris",
       "icon": "github"
