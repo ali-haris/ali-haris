@@ -20,7 +20,7 @@
 
 ### About Me
 
-I am a Computer Science graduate and Research Assistant working at the intersection of **Artificial Intelligence, Machine Learning, Computer Vision, and Applied Deep Learning**.  
+I am a Computer Science graduate and Research Assistant working at the intersection of **Artificial Intelligence, Machine Learning, Computer Vision, and Applied Deep Learning**.
 
 My work focuses on building practical AI systems for real-world problems, including medical imaging, healthcare AI, agriculture, assistive technology, lightweight deep learning, and explainable AI.
 
@@ -31,11 +31,12 @@ I enjoy research, implementation, experimentation, and participating in internat
 ### Research & Technical Interests
 
 - Computer Vision
-- AI in Healthcare and Medical Imaging  
-- Explainable and Reliable AI  
-- Lightweight and Efficient AI Models  
-- Applied AI for Agriculture and Social Impact  
-- Data-Driven Systems and Research Computing  
+- AI in Healthcare and Medical Imaging
+- Explainable and Reliable AI
+- Lightweight and Efficient AI Models
+- Applied AI for Agriculture and Social Impact
+- Data-Driven Systems and Research Computing
+- Gait, movement, and intelligent sensing systems
 
 ---
 
@@ -54,21 +55,21 @@ I enjoy research, implementation, experimentation, and participating in internat
 
 ### Hackathons & Competitions
 
-- 🥉 **3rd Place**, HackHub 2025 by SparkHub — [Exam Companion](https://devpost.com/software/exam-companion)  
-- 🚀 NASA Space Apps Challenge 2025 — [Exoplanet Hunter](https://www.linkedin.com/posts/muhammad-haris-khan18_nasaspaceapps-machinelearning-exoplanet-activity-7381035384408928257-J3pC)  
-- 🌱 Co-Creating with GPT-5 by Lablab.ai — [Eco Mentor](https://lablab.ai/event/co-creating-with-gpt-5/ai-for-sustainability/green-mentor)  
-- 🧩 Harvard CS50x Puzzle Day 2026 — solved 10/10 puzzles with team  
-- 🏆 Meta Hacker Cup 2025 — Top 5% globally, 8th nationally  
+- 🥉 **3rd Place**, HackHub 2025 by SparkHub — [Exam Companion](https://devpost.com/software/exam-companion)
+- 🚀 **NASA Space Apps Challenge 2025** — [Exoplanet Hunter](https://www.linkedin.com/posts/muhammad-haris-khan18_nasaspaceapps-machinelearning-exoplanet-activity-7381035384408928257-J3pC)
+- 🌱 Co-Creating with GPT-5 by Lablab.ai — [Eco Mentor](https://lablab.ai/event/co-creating-with-gpt-5/ai-for-sustainability/green-mentor)
+- 🧩 **Harvard CS50x Puzzle Day 2026** — solved **10/10 puzzles** with team
+- 🏆 **Meta Hacker Cup 2025** — **Top 5% globally, 8th nationally**
 
 ---
 
 ### Mentorship, Judging & Community
 
-- Judge and Mentor — HEC Generative AI Training Hackathon  
-- Judge — Student HackPad 2025  
-- Judge — HealTech Innovators Hackathon 2025  
-- Trainer and Moderator — ICodeGuru  
-- Workshop Speaker — Transformers, LLMs, YOLO, and NASA Space Apps  
+- **Judge and Mentor** — HEC Generative AI Training Hackathon
+- **Judge** — Student HackPad 2025
+- **Judge** — HealTech Innovators Hackathon 2025
+- **Trainer and Moderator** — ICodeGuru
+- **Workshop Speaker** — Transformers, LLMs, YOLO, and NASA Space Apps
 
 ---
 
