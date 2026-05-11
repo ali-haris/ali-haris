@@ -57,7 +57,7 @@ I enjoy research, implementation, experimentation, and participating in internat
 - 🥉 **3rd Place**, HackHub 2025 by SparkHub — [Exam Companion](https://devpost.com/software/exam-companion)  
 - 🚀 NASA Space Apps Challenge 2025 — [Exoplanet Hunter](https://www.linkedin.com/posts/muhammad-haris-khan18_nasaspaceapps-machinelearning-exoplanet-activity-7381035384408928257-J3pC)  
 - 🌱 Co-Creating with GPT-5 by Lablab.ai — [Eco Mentor](https://lablab.ai/event/co-creating-with-gpt-5/ai-for-sustainability/green-mentor)  
-- 🧩 Harvard CS50x Puzzle Day 2025 — solved 8/9 puzzles with team  
+- 🧩 Harvard CS50x Puzzle Day 2026 — solved 10/10 puzzles with team  
 - 🏆 Meta Hacker Cup 2025 — Top 5% globally, 8th nationally  
 
 ---
