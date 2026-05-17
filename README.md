@@ -60,6 +60,7 @@ I enjoy research, implementation, experimentation, and participating in internat
 - 🌱 Co-Creating with GPT-5 by Lablab.ai — [Eco Mentor](https://lablab.ai/event/co-creating-with-gpt-5/ai-for-sustainability/green-mentor)
 - 🧩 **Harvard CS50x Puzzle Day 2026** — solved **10/10 puzzles** with team
 - 🏆 **Meta Hacker Cup 2025** — **Top 5% globally, 8th nationally**
+- 🏆 **Ranked 40** - UCLA Code Sprint.
 
 ---
 
